@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="68" viewBox="0 0 260 68" role="img" aria-label="CONNECT"><title>CONNECT</title><defs>
+ <linearGradient id="night" x1="0" y1="0" x2="1" y2=".85"><stop stop-color="#0b1729"/><stop offset=".5" stop-color="#07111f"/><stop offset="1" stop-color="#102845"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".48" stop-color="#e5effe"/><stop offset=".52" stop-color="#afc7e3"/><stop offset="1" stop-color="#e2f1ff"/></linearGradient>
+ <linearGradient id="blade"><stop stop-color="#3661a0" stop-opacity="0"/><stop offset=".27" stop-color="#6cb5ff"/><stop offset=".55" stop-color="#e3f7ff"/><stop offset=".78" stop-color="#7bc6ff"/><stop offset="1" stop-color="#3b6da9" stop-opacity="0"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#3986f0" stop-opacity=".28"/><stop offset="1" stop-color="#2469aa" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#76b5fc" stroke-opacity=".08" stroke-width="1"/></pattern>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+ </defs><path d="M1 1H235L259 25V67H25L1 43Z" fill="url(#night)" stroke="#284564" stroke-width="1.5"/>
+ <path d="M1 1H148M1 1V50M259 67H112M259 67V18" fill="none" stroke="#87c5ff" stroke-opacity=".7" stroke-width="2"/>
+ <path d="M27 57H228" stroke="url(#blade)" stroke-opacity=".42"/><text x="25" y="43" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#579cf5" font-weight="600">04</text><text x="66" y="43" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#edf5ff" letter-spacing="1.4" font-weight="600">CONNECT</text><path d="M228 27L235 34L228 41" fill="none" stroke="#a5ddff" stroke-width="2"/></svg>
